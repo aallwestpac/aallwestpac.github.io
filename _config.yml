@@ -1,10 +1,9 @@
 # Permalinks
-permalink:           pretty
+permalink:           /posts/:year/:month/:day/:title:output_ext
 
 # Setup
-title:               Poole
-tagline:             The Jekyll Butler
-url:                 http://getpoole.com
+title:               WestPac Announcements
+url:                 https://aallwestpac.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -17,14 +16,14 @@ sass:
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              AALL westpac
+  url:               http://chapters.aallnet.org/westpac/
+  email:             aallwestpac@gmail.com
 
 # Custom vars
-version:             2.0.0
+version:             0.0.1
 github:
-  repo:              https://github.com/poole/poole
+  repo:              https://github.com/aallwestpac/aallwestpac.github.io
 
 # Gems
 gems:
