@@ -11,4 +11,4 @@ Thanks to Tami Gierloff (Chair) and the Nominations and Elections Committee, for
 
 [Current WestPac Officers](http://chapters.aallnet.org/westpac/officers.asp)
 
-Originally shared on Google+ 2014-09-25 6:03pm.
+{:.oNote}Originally shared on Google+ 2014-09-25 6:03pm.
