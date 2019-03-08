@@ -7,4 +7,4 @@ The Grant Committee is requesting IMMEDIATE ACTION on requests for grants to att
 
 [Grant Application Form](chapters.aallnet.org/westpac/forms/2015WestPacAALLGrantApplicationForm.docx)
 
-{:.oNote}Originally shared on Google+ 2015-03-13 4:42pm.
+{:.oNote} Originally shared on Google+ 2015-03-13 4:42pm.
