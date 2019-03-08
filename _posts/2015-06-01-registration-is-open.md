@@ -9,4 +9,5 @@ _(If you send in your registration and don't get an email response within 30 min
 
 [WestPac 2015 – Registration](http://chapters.aallnet.org/westpac/2015honolulu/registration.asp).
 
-{: .oNote} Originally shared on Google+ 2015-06-01 6:34pm.
+Originally shared on Google+ 2015-06-01 6:34pm.
+{: .oNote}
