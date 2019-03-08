@@ -23,3 +23,13 @@
     opacity: .5;
   }
 }
+
+/* from lanyon */
+@media (max-width: 48em) {
+  .masthead-title {
+    text-align: center;
+  }
+  .masthead-title small {
+    display: none;
+  }
+}
