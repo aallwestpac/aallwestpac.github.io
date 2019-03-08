@@ -11,4 +11,4 @@ The application deadline for all three grants is August 24th, 2015.
 
 [Grant Forms](http://chapters.aallnet.org/westpac/grants.asp).
 
-Originally shared on Google+ 2015-08-06 5:11pm.
+{:.oNote} Originally shared on Google+ 2015-08-06 5:11pm.
