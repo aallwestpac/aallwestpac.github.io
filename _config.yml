@@ -26,6 +26,6 @@ github:
   repo:              https://github.com/aallwestpac/aallwestpac.github.io
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
