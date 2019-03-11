@@ -1,0 +1,106 @@
+// WestPac website styles from http://chapters.aallnet.org/westpac/
+// --------------------
+// alignment
+// --------------------
+
+.centered {
+  text-align: center;
+}
+
+.indented {
+  padding-left: 2em;
+}
+
+.full-width {
+  position: relative;
+  margin: 1%;
+  padding: 1%;
+  background-color: transparent;
+  width: 95%;
+  float: none;
+  clear: both;
+}
+
+.alignleft {
+  float: left;
+  margin: 0 20px 0 0;
+}
+
+.alignright {
+  float: right;
+  margin: 0 0 0 20px;
+}
+
+.left {
+  width: 45%;
+  padding: 0 5px 0 5px;
+  float: left;
+}
+
+.right {
+  float: right;
+  padding: 0 5px 0 5px;
+  width: 45%;
+}
+
+// --------------------
+// appearance
+// --------------------
+
+.small {
+  font-size: 85%;
+}
+
+.medium {
+  font-size: 1.15em;
+}
+
+.big {
+  font-size: 1.5em;
+}
+
+.highlighted {
+  color: #003366;
+  font-size: 125%;
+  margin: 10px;
+  padding: 15px;
+  width: 50%;
+  text-align: center;
+}
+
+.smallItalic {
+  font-size: 85%;
+  font-style: italic;
+}
+
+.smallCaps {
+  font-variant: small-caps;
+  font-size: 110%;
+}
+
+.red {
+  color: #960516;
+  font-weight: bolder;
+}
+
+.smallRed {
+  color: #960516;
+  font-size: 75%;
+  text-align: right;
+}
+
+p.largePrint {
+  font-size: 120%;
+  line-height: 125%;
+}
+
+span.largePrint {
+  font-size: 125%;
+  font-weight: bold;
+}
+
+.dropLetter {
+  font-family: 'Rye', 'Paprika', cursive;
+  font-size: 5rem;
+  float: left;
+}
