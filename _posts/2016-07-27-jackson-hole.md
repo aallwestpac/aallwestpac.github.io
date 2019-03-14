@@ -11,5 +11,5 @@ When: Sep 29, 2016, 2pm – Oct 2, 2016, 1pm Where: Jackson, WY
   > - [Tour / Sightseeing page](http://chapters.aallnet.org/westpac/meeting_archive/2016jackson/activities.asp)
   > - [Program page](http://chapters.aallnet.org/westpac/meeting_archive/2016jackson/programs.asp)
 
-Originally shared on Google+ 2016-07-27 3:16pm.
+Originally shared on Google+ 2016-07-27.
 {: .oNote}

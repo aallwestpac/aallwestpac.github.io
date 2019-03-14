@@ -16,20 +16,22 @@
   a {
     color: inherit;
   }
-
-  small {
-    font-size: 75%;
-    font-weight: 400;
-    opacity: .5;
-  }
 }
 
-/* from lanyon */
+.masthead-tagline {
+  font-size: 75%;
+  font-weight: 400;
+  color: #047;
+  opacity: .5;
+}
+
+
+/* adapted from lanyon */
 @media (max-width: 48em) {
   .masthead-title {
     text-align: center;
   }
-  .masthead-title small {
+  .masthead-tagline {
     display: none;
   }
 }

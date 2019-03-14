@@ -13,7 +13,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #174830;
 }
 
-h3.masthead-title {
+.masthead-title {
   font-family: 'Paprika', cursive;
 }
 
@@ -121,4 +121,11 @@ span.largePrint {
   font-family: 'Rye', 'Paprika', cursive;
   font-size: 5rem;
   float: left;
+}
+
+.oNote {
+  color: $gray-2;
+  font-size: 75%;
+  font-variant: small-caps;
+  text-align: right;
 }
