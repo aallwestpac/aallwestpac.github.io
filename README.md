@@ -1,6 +1,6 @@
 # WestPac Announcements
 
-**WestPac** is the Western Pacific Chapter of the American Association of Law Libraries (AALL); serving libraries in Alaska, Hawai'i, Idaho, Montana, Nevada, Oregon, Utah, Washington and Wyoming, as well as British Columbia (Canada).
+**WestPac** is the Western Pacific Chapter of the American Association of Law Libraries (AALL); serving libraries and law librarians in Alaska, Hawai'i, Idaho, Montana, Nevada, Oregon, Utah, Washington and Wyoming, as well as British Columbia (Canada).
 
 --------------------------------------------------------------------------------
 
