@@ -12,4 +12,4 @@ Announcements on this site are contributed by librarian volunteers who don't nec
 
 --------------------------------------------------------------------------------
 
-This repo was created with [Poole](http://getpoole.com/), then modified by adding those parts of [Lanyon](http://lanyon.getpoole.com/) used for the sidebar. This method was used so we could take advantage to the current (as of March 2019) Poole scss files/structure. Thanks to everyone who contributed directly or indirectly to either of those projects.
+This repo was created with [Poole](http://getpoole.com/), then modified by adding those parts of [Lanyon](http://lanyon.getpoole.com/) used for the sidebar. This method was used so we could take advantage of the current (as of March 2019) scss files/structure from Poole. Thanks to everyone who contributed directly or indirectly to either of those projects.
