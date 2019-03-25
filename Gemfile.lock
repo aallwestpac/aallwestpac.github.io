@@ -248,6 +248,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-feed
   sassc
   wdm (>= 0.1.0)
 
