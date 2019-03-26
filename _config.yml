@@ -27,6 +27,9 @@ version:             0.0.1
 github:
   repo:              https://github.com/aallwestpac/aallwestpac.github.io
 
+# Image location for gDocs Gabriel add-on.
+post_assets: assets/posts
+
 # Gems
 plugins:
   - jekyll-paginate
