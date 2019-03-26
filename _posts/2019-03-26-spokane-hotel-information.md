@@ -1,5 +1,5 @@
 ---
-title: spokane hotel information
+title: Spokane Hotel Information
 layout: post
 author: aallwestpac
 permalink: /spokane-hotel-information/
