@@ -12,11 +12,11 @@ FYI while planning:
 
 * the opening reception will be **Oct. 10****th**
 
-* conference programs will be presented on **Oct. 11****th**** **and** 12****th**
+* conference programs will be presented on **Oct. 11<sup>th</sup>** and **12<sup>th</sup>**
 
-* the $149 rate is good (so long as there is availability) from Oct. 7th through Oct. 15th
+* the $149 rate is good (so long as there is availability) from Oct. 7<sup>th</sup> through Oct. 15<sup>th</sup>
 
-* the last day to book at the conference rate will be **Sept. 11****th**
+* the last day to book at the conference rate will be **Sept. 11<sup>th</sup>**
 
 Contact [Kerry Fitz-Gerald](mailto:fitzgk@seattleu.edu) for further conference information. Details will be posted on the [conference website](http://chapters.aallnet.org/westpac/thisyear/index.asp) as they develop.
 
