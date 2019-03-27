@@ -10,7 +10,7 @@ The local arrangements committee for the Spokane meeting has selected the [Histo
 
 FYI while planning:
 
-* the opening reception will be **Oct. 10****th**
+* the opening reception will be **Oct. 10<sup>th</sup>**
 
 * conference programs will be presented on **Oct. 11<sup>th</sup>** and **12<sup>th</sup>**
 
