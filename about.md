@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+**WestPac** is the Western Pacific Chapter of the American Association of Law Libraries (AALL); serving libraries and law librarians in Alaska, Hawai'i, Idaho, Montana, Nevada, Oregon, Utah, Washington and Wyoming, as well as British Columbia (Canada).
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+--------------------------------------------------------------------------------
 
-There are currently two themes built on Poole:
+This "blog" is the source for the announcements on the [WestPac website](http://chapters.aallnet.org/westpac/), the chapter's home page.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Feedback should be directed to the [webmaster](mailto:aallwestpac@gmail.com). Fair warning: that email account doesn't get used very often, so it isn't checked every day, or even every week. However, the message will get through, eventually.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+--------------------------------------------------------------------------------
 
-## Setup
+#### If you care about the backend development:
 
-Some fun facts about the setup of this project include:
+Announcements on this site are contributed by librarian volunteers who don't necessarily code, so we are using the [Gabriel](https://chrome.google.com/webstore/detail/gabriel/okimajjeocnndpifeelaajdebkkbckff?hl=en-GB) add-on for Google Docs to make the process easier. Announcements submitted via an authorized Gabriel instance are automatically posted without any moderation.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+This repo was created with [Poole](http://getpoole.com/), then modified by adding those parts of [Lanyon](http://lanyon.getpoole.com/) used for the sidebar. Thanks to everyone who contributed directly or indirectly to either of those projects.
