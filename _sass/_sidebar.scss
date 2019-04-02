@@ -26,13 +26,14 @@
 #sidebarMenu {
    background-color: #004477;
    color: rgba(255,255,255,.6);
+   box-sizing: content-box;
    height: 100%;
    position: fixed;
    left: -14rem;
    width: 14rem;
    transform: translateX(0);
    transition: transform 250ms ease-in-out;
-   margin-top: 60px;
+   padding-top: 60px;
    font-family: "PT Sans", Helvetica, Arial, sans-serif;
    font-size: .875rem; /* 15px */
 }
