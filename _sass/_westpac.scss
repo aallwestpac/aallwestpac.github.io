@@ -24,22 +24,20 @@ h1, h2, h3, h4, h5, h6 {
 html {
 }
 body {
-//   background-color: #0a4023;
-//   background: url(../../assets/design/foreground.png) no-repeat scroll center top,
-//      url(../../assets/design/sky+sun.png) no-repeat fixed center -250px;
+   background-color: #0a4023;
    box-sizing: border-box;
 }
-
-
-
-.masthead {
-   margin-left: 5%;
+.backgroundImage {
+   background: url(../../assets/design/sky+sun.png) no-repeat scroll center -25vh;
+}
+.parallax {
+   background: url(../../assets/design/foreground.png) no-repeat scroll center top;
 }
 
-.content.textblock {
-   background-color: rgba(255, 255, 250, 0.95);
+.content {
+   background-color: rgba(255, 255, 250, 0.9);
    border: 3px double #004477;
-   padding: 1rem 2rem 1px;
+   padding: 1rem 2rem;
 }
 
 // --------------------

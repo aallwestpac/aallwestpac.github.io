@@ -17,7 +17,7 @@
 
 .switch {
    display: block;
-   position: fixed;
+   position: absolute;
    height: 60px;
    width: 250px;
 }
@@ -26,16 +26,16 @@
 #sidebarMenu {
    background-color: #004477;
    color: rgba(255,255,255,.6);
-   box-sizing: content-box;
    height: 100%;
-   position: fixed;
+   position: absolute;
    left: -14rem;
    width: 14rem;
    transform: translateX(0);
-   transition: transform 250ms ease-in-out;
+   transition: transform 450ms ease-in-out;
    padding-top: 60px;
    font-family: "PT Sans", Helvetica, Arial, sans-serif;
    font-size: .875rem; /* 15px */
+   z-index: 77;
 }
 
 @media (min-width: 30em) {
@@ -119,11 +119,14 @@ input[type=checkbox] {
 .sidebarIconToggle {
    transition: all 0.3s;
    box-sizing: content-box;
+   border-radius: 30px;
+   box-shadow: 0px 0px 40px rgba(228,238,202,0.5) inset;
    cursor: pointer;
    position: fixed;
    height: 22px;
    width: 22px;
-   padding: 20px 12rem 18px 18px;
+   margin: 2px;
+   padding: 20px 18px 14px;
    z-index: 99;
 }
 
@@ -162,6 +165,7 @@ input[type=checkbox] {
 
 input[type=checkbox]:checked~.sidebarIconToggle {
    background-position: -100% 0;
+   box-shadow: none;
 }
 
 input[type=checkbox]:checked~.sidebarIconToggle>.horizontal {

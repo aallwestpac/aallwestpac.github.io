@@ -3,13 +3,7 @@
 
   {% include head.html %}
 
-   <body>
-
-<!-- Lanyon used wrap to protect against content css
-   Modified sidebar doesn't push content, but style keeps .wrap
-   to use for parallax effect. -->
-   <div class="wrap parallax">
-
+<body>
 
    <div class="switch"></div>
      <input type="checkbox" class="openSidebarMenu" id="openSidebarMenu">
@@ -19,20 +13,23 @@
            <div class="spinner diagonal part-2"></div>
         </label>
 
-
    {% include sidebar.html %}
 
-      <div class="container content">
-         <header class="masthead">
-            <h1 class="masthead-title">
-               <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
-            </h1>
-            <p class="masthead-tagline">{{ site.tagline }}</p>
-         </header>
+   <div class="wrap">
 
-         <div class="wrapContent">
-            {{ content }}
-         </div>
+   <div class="backgroundImage"></div>
+
+      <header class="masthead">
+         <h1 class="masthead-title">
+            <a href="{{ site.baseurl }}/" title="Home">{{ site.title }}</a>
+         </h1>
+         <p class="masthead-tagline">{{ site.tagline }}</p>
+      </header>
+
+   <div class="parallax"></div>
+
+      <div class="container content">
+         {{ content }}
       </div>
 
 
@@ -42,7 +39,6 @@
          </p>
       </footer>
    </div>
-
 
    {% if site.analytics_id %}
     <script>
@@ -55,5 +51,5 @@
     </script>
    {% endif %}
 
-   </body>
+</body>
 </html>
