@@ -31,7 +31,7 @@ body {
    margin-bottom: -80vh;
    transform: translateZ(-1px) scale(2);
    @media (max-width: 50em) {
-         margin: inherit auto;
+         margin: 1rem auto -85vh;
          text-align: center;
    }
 }
