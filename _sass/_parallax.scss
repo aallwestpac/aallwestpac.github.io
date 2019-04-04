@@ -30,7 +30,7 @@ body {
    height: 100vh;
    margin-bottom: -80vh;
    transform: translateZ(-1px) scale(2);
-   @media (max-width: 50em) {
+   @media (max-width: 60rem) {
          margin: 1rem auto -85vh;
          text-align: center;
    }
