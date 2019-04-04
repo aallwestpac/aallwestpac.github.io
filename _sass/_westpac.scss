@@ -29,9 +29,12 @@ body {
 }
 .backgroundImage {
    background: url(../../assets/design/sky+sun.png) no-repeat scroll center -25vh;
+
 }
 .parallax {
-   background: url(../../assets/design/foreground.png) no-repeat scroll center top;
+/*   background: url(../../assets/design/foreground.png) no-repeat scroll center top;*/
+   background: url(../../assets/design/foreground1.svg) no-repeat scroll center -10vh;
+   background-size: 100vw 100vh;
 }
 
 .content {
