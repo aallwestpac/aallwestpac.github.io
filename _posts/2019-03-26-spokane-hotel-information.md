@@ -22,4 +22,5 @@ Contact [Kerry Fitz-Gerald](mailto:fitzgk@seattleu.edu) for further conference i
 
 ![winking face](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Twemoji_1f609.svg/200px-Twemoji_1f609.svg.png)
 {:height="50px" width="50px"}
+
 And &hellip; while you're here, think about proposing a program (see below).
