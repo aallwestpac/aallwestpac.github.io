@@ -20,4 +20,4 @@ FYI while planning:
 
 Contact [Kerry Fitz-Gerald](mailto:fitzgk@seattleu.edu) for further conference information. Details will be posted on the [conference website](http://chapters.aallnet.org/westpac/thisyear/index.asp) as they develop.
 
-![winking face](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Twemoji_1f609.svg/200px-Twemoji_1f609.svg.png) And &hellip; while you're here, think about proposing a program (see below).
+![winking face](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Twemoji_1f609.svg/200px-Twemoji_1f609.svg.png =50px) And &hellip; while you're here, think about proposing a program (see below).
