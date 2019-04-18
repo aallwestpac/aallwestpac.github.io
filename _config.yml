@@ -4,7 +4,7 @@ permalink:           posts/:year/:month/:day/:title
 # Setup
 title:               The @AALLWestPac Source
 tagline:             Announcements for the Western Pacific Chapter of AALL
-url:                 https://aallwestpac.github.io/
+url:                 https://aallwestpac.github.io
 paginate:            5
 paginate_path:       "/updates/page:num/"
 baseurl:             ""
