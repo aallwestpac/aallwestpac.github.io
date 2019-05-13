@@ -9,5 +9,5 @@ Take a look (let the webmaster know if you find a problem!) — and fear not, th
 
 ![WestPac Website](../../assets/posts/new-style.png)
 
-Originally shared on Google+ 2016-07-13.
+Originally shared on Google+
 {: .oNote}
