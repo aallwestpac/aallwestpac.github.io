@@ -7,5 +7,5 @@ Jackson Hole is an exciting destination. It is a great place for families and fo
 
 ![jacksonhole.com](../../assets/posts/jacksonhole-com.png)
 
-Originally shared on Google+ 2016-04-22.
+Originally shared on Google+
 {: .oNote}
