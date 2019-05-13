@@ -15,5 +15,5 @@ title: AALL Scholarships
 
 The deadline for applications is April 1. To learn more about the scholarships, instructions, and applications process, contact AALL Scholarship Award Jury Chair Whitney Curtis or AALL Headquarters.
 
-Originally shared on Google+ 2017-01-02.
+Originally shared on Google+
 {: .oNote}
