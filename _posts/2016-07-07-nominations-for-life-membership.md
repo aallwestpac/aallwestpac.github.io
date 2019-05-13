@@ -14,5 +14,5 @@ We encourage you to think of colleagues who have retired in the last few years a
 
 Any remarks in support of the nomination would be greatly appreciated. We hope to profile nominees in the summer newsletter and vote at the business meeting during our annual conference in Jackson Hole.﻿
 
-Originally shared on Google+ 2016-07-07.
+Originally shared on Google+
 {: .oNote}
