@@ -11,5 +11,5 @@ You may download a printable copy if desired (PDF).
 
 [English](http://chapters.aallnet.org/westpac/2015honolulu/files/CAFLL-WESTPAC_English.pdf).
 
-Originally shared on Google+ 2015-07-28.
+Originally shared on Google+
 {: .oNote}
