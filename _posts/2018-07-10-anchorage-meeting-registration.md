@@ -9,5 +9,5 @@ share:
 
 ![Anchorage Website](https://aallwestpac.github.io/assets/posts/anchorage-meeting.png)
 
-Originally shared on Google+ 2018-07-10.
+Originally shared on Google+
 {: .oNote}
