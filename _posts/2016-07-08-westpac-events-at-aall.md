@@ -17,5 +17,5 @@ WestPac Chapter (AALL): [Portillo's](http://www.portillos.com/)
 
 WestPac Chapter (AALL): [Take the survey about the annual meeting at Jackson Hole](https://www.surveymonkey.com/r/Q89JYTT)
 
-Originally shared on Google+ 2016-07-08.
+Originally shared on Google+
 {: .oNote}
