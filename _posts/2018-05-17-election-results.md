@@ -7,5 +7,5 @@ Thank you to everyone who participated in the WestPac election!  Please join in 
 
 Many thanks to the Nominations and Elections Committee for selecting outstanding candidates!
 
-Originally shared on Google+ 2018-05-17.
+Originally shared on Google+
 {: .oNote}
