@@ -13,5 +13,5 @@ Interested in wildlife viewing in the Tetons with an optional hike?  If so, sign
 
 Care to become part of WestPac history?  If so, [please visit the activities website](http://www.aallnet.org/chapter/westpac/thisyear/activities.asp) to register and pay for your optional tour(s) by September 1st.  Additional sightseeing information is provided on the webpage as well.
 
-Originally shared on Google+ 2016-08-11.
+Originally shared on Google+
 {: .oNote}
