@@ -9,5 +9,5 @@ Reservations: [Online](https://gc.synxis.com/rez.aspx?Hotel=26969&Chain=10237&te
 
 Use the booking code "Hotel-Captaincook-WESTPAC".
 
-Originally shared on Google+ 2018-05-10.
+Originally shared on Google+
 {: .oNote}
