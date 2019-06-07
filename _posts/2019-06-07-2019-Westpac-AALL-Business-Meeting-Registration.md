@@ -18,7 +18,7 @@ Location:     	Brasserie Beck, 1101 K St NW
 
  
 
-Registration:   [https://westpac.busyconf.com/bookings/new](https://westpac.busyconf.com/bookings/new) (OR [print and mail the form](http://chapters.aallnet.org/westpac/forms/2019WestPAALL.businessmeeting.pdf) for those not paying by credit card)
+Registration:   [https://westpac.busyconf.com/bookings/new](https://westpac.busyconf.com/bookings/new) (OR [print and mail the form](http://chapters.aallnet.org/westpac/forms/2019WestPacAALLbusinessmeeting.pdf) for those not paying by credit card)
 
  
 
