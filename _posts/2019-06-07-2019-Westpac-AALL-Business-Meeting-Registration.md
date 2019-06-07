@@ -6,6 +6,8 @@ permalink: /2019-westpac-aall-business-meeting-registration/
 source-id: 1KSo69fldHiZIHM2iUZbkIncJ6A7tLzcM_RYEYeh839E
 published: true
 ---
+![WestPac](https://aallwestpac.github.io/assets/posts/oldwplogo.jpg)
+
 Come join us for an excellent lunch and our annual business meeting. The restaurant is only three blocks from the Marriott.
 
 ### Details:
