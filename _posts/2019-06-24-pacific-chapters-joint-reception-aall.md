@@ -1,12 +1,12 @@
 ---
-title: Pacific Chapters Joint Reception @ AALL
+title: Announcing the venue for the AALL Pacific Chapters Joint Reception in Washington, DC.
 layout: post
 author: Brian Huffman
 permalink: /pacific-chapters-joint-reception-@-aall/
 source-id: 1Lcr_8SIwsYCXQ90Xc-ZSkL67rA0u-9EFpV5jZJVu_Xk
 published: true
 ---
-###Announcing the venue for the AALL Pacific Chapters Joint Reception in Washington, DC.
+
 
 **Venue**: City Tap House at Penn Quarter, Washington DC
 
