@@ -16,7 +16,7 @@ layout: null
  </author>
 
  {% for post in site.posts %}
- <entry>
+ <entry class="westpac-post">
   <div class="post-wrapper">
    <title>{{ post.title | xml_escape }}</title>
    <link href="{{ site.url }}{{ site.baseurl }}{{ post.url }}"/>
