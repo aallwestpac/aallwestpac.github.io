@@ -12,7 +12,7 @@ Registration for the annual meeting in Spokane is now open!  Join us Oct. 10-12 
 You can find the program schedule at [https://westpac2019.busyconf.com/schedule](https://westpac2019.busyconf.com/schedule) (make sure to click on the tabs to see all the programming), or just go straight to registration at  [https://westpac2019.busyconf.com/bookings/new](https://westpac2019.busyconf.com/bookings/new).
 
  
-Book your lodging at the beautiful [Historic Davenport](https://www.marriott.com/event-reservations/reservation-link.mi?id=1551132228239&key=GRP&app=resvlinkC)to take advantage of the group rates.
+Book your lodging at the beautiful [Historic Davenport](https://www.marriott.com/event-reservations/reservation-link.mi?id=1551132228239&key=GRP&app=resvlinkC) to take advantage of the group rates.
 
 We'll be updating the page on the WestPac site soon, but in the meantime, please use the links above to register.
 
