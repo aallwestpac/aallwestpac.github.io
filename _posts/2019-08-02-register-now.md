@@ -5,7 +5,7 @@ author: Kerry Fitz-Gerald
 source-id: 1-DvMZ8x-lP_Zp1N5o27sHD-3OUJcT0nTfLPzgYt6NcQ
 published: true
 ---
-Registration for the annual meeting in Spokane is now open!  Join us Oct. 10-12 at the Historic Davenport Hotel for a program covering a range of interesting topics including archival practices, workplace efficiency tools, Drag Queen Story Hours, online teaching and more. Our keynote speaker, Elizabeth Kelley, a criminal defense lawyer with a nationwide practice focused on representing people with mental disabilities, is also the editor the 2018 ABA book*, Representing People with Mental Disabilities: A Practical Guide for Criminal Defense Lawyers.*  Our opening reception will be at the Jundt Art Museum and you'll have the chance to tour the Chastek Law Library on the Gonzaga campus.
+Registration for the annual meeting in Spokane is now open!  Join us Oct. 10-12 at the Historic Davenport Hotel for a program covering a range of interesting topics including archival practices, workplace efficiency tools, Drag Queen Story Hours, online teaching and more. Our keynote speaker, Elizabeth Kelley, a criminal defense lawyer with a nationwide practice focused on representing people with mental disabilities, is also the editor the 2018 ABA book, *Representing People with Mental Disabilities: A Practical Guide for Criminal Defense Lawyers*.  Our opening reception will be at the Jundt Art Museum and you'll have the chance to tour the Chastek Law Library on the Gonzaga campus.
 
 ----------
 
