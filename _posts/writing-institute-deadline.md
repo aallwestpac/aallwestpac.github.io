@@ -5,7 +5,7 @@ author: Kerry Fitz-Gerald
 source-id: 1qILTZxWFEmNHzWGNCxchyVlS71izU6zoEt1fDksDsLo
 published: true
 ---
-The deadline to apply for the 1st Annual WestPac Writing Institute is **Monday, August 26****th**** at 5pm**. This is a fabulous opportunity for feedback and support for anyone who is working on writing projects. Feel free to share with your colleagues who are not yet WestPac members.
+The deadline to apply for the 1st Annual WestPac Writing Institute is <span class="bold red">Monday, August 26<sup>th</sup> at 5pm</span>. This is a fabulous opportunity for feedback and support for anyone who is working on writing projects. Feel free to share with your colleagues who are not yet WestPac members.
 
 See Mari Cheney's original announcement below.
 
