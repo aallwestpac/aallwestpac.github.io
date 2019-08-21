@@ -33,6 +33,6 @@ Please contact me directly with any questions. Special thanks to Susan Nevlow Ma
 
  
 
-Mari Cheney, J.D., M.L.I.S.//
-Assistant Director, Research and Instruction//
+Mari Cheney, J.D., M.L.I.S.\\
+Assistant Director, Research and Instruction\\
 Lewis & Clark Law School, Boley Law Library
