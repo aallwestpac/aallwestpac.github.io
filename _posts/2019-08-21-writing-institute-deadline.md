@@ -10,7 +10,7 @@ The deadline to apply for the 1st Annual WestPac Writing Institute is <span clas
 See Mari Cheney's original announcement below:
 
  
-**First Annual WestPac Writing Institute**
+### **First Annual WestPac Writing Institute**
 
 We are pleased to announce that the first annual WestPac Writing Institute will be held on Oct. 10, 2019, at Gonzaga University School of Law immediately prior to the WestPac Annual Meeting. 
 
