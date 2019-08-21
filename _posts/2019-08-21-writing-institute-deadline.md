@@ -20,11 +20,11 @@ The Writing Institute is limited to 8 attendees. Each person attending will be e
 
 The work should focus on some aspect of law librarianship or legal information, including:
 
-**· the use or teaching of legal information,
-·  information retrieval,
-·  law and policy,
-·  information access issues,
-·  practice issues.**
+* __the use or teaching of legal information,__
+* __information retrieval,__
+* __law and policy,__
+* __information access issues,__
+* __practice issues.__
 
 To apply for the Writing Institute, submit a draft for consideration no later than **Aug. 26 at 5 p.m.** The draft must be more than an outline but need not be in publishable form (between 4-8 pages). Please submit your draft via e-mail to Mari Cheney at [maricheney@lclark.edu](mailto:maricheney@lclark.edu). Those chosen as Writing Institute participants agree to submit a working draft of at least 4,000 and no more than 15,000 words for review by September 23. All drafts will be circulated to everyone attending to allow ample time for reading and thought.
 
