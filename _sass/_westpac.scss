@@ -5,16 +5,40 @@
 // --------------------
 
 html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
-  line-height: 1.5em;
+   line-height: 1.5em;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Quattrocento', Georgia, serif;
-  color: #174830;
+   font-family: 'Quattrocento', Georgia, serif;
+   color: #174830;
 }
 
-h3.masthead-title {
-  font-family: 'Paprika', cursive;
+.masthead-title {
+   font-family: 'Paprika', cursive;
+}
+
+// --------------------
+// page design
+// --------------------
+
+html {
+}
+body {
+   background-color: #0a4023;
+   box-sizing: border-box;
+}
+.backgroundImage {
+   background: url(../../assets/design/sky+sun.png) no-repeat scroll center -25vh;
+
+}
+.parallax {
+   background: url(../../assets/design/foreground.png) no-repeat scroll center top;
+}
+
+.content {
+   background-color: rgba(255, 255, 250, 0.95);
+   border: 3px double #004477;
+   padding: 1rem 2rem;
 }
 
 // --------------------
@@ -22,103 +46,116 @@ h3.masthead-title {
 // --------------------
 
 .centered {
-  text-align: center;
+   text-align: center;
 }
 
 .indented {
-  padding-left: 2em;
+   padding-left: 2em;
 }
 
 .full-width {
-  position: relative;
-  margin: 1%;
-  padding: 1%;
-  background-color: transparent;
-  width: 95%;
-  float: none;
-  clear: both;
+   position: relative;
+   margin: 1%;
+   padding: 1%;
+   background-color: transparent;
+   width: 95%;
+   float: none;
+   clear: both;
 }
 
 .alignleft {
-  float: left;
-  margin: 0 20px 0 0;
+   float: left;
+   margin: 0 20px 0 0;
 }
 
 .alignright {
-  float: right;
-  margin: 0 0 0 20px;
+   float: right;
+   margin: 0 0 0 20px;
 }
 
 .left {
-  width: 45%;
-  padding: 0 5px 0 5px;
-  float: left;
+   width: 45%;
+   padding: 0 5px 0 5px;
+   float: left;
 }
 
 .right {
-  float: right;
-  padding: 0 5px 0 5px;
-  width: 45%;
+   float: right;
+   padding: 0 5px 0 5px;
+   width: 45%;
 }
 
 // --------------------
-// appearance
+// text appearance
 // --------------------
 
 .small {
-  font-size: 85%;
+   font-size: 85%;
 }
 
 .medium {
-  font-size: 1.15em;
+   font-size: 1.15em;
 }
 
 .big {
-  font-size: 1.5em;
+   font-size: 1.5em;
 }
 
 .highlighted {
-  color: #003366;
-  font-size: 125%;
-  margin: 10px;
-  padding: 15px;
-  width: 50%;
-  text-align: center;
+   color: #003366;
+   font-size: 125%;
+   margin: 10px;
+   padding: 15px;
+   width: 50%;
+   text-align: center;
 }
 
 .smallItalic {
-  font-size: 85%;
-  font-style: italic;
+   font-size: 85%;
+   font-style: italic;
 }
 
 .smallCaps {
-  font-variant: small-caps;
-  font-size: 110%;
+   font-variant: small-caps;
+   font-size: 110%;
 }
 
 .red {
-  color: #960516;
-  font-weight: bolder;
+   color: #960516;
+   font-weight: bolder;
 }
 
 .smallRed {
-  color: #960516;
-  font-size: 75%;
-  text-align: right;
+   color: #960516;
+   font-size: 75%;
+   text-align: right;
 }
 
 p.largePrint {
-  font-size: 120%;
-  line-height: 125%;
+   font-size: 120%;
+   line-height: 125%;
 }
 
 span.largePrint {
-  font-size: 125%;
-  font-weight: bold;
+   font-size: 125%;
+   font-weight: bold;
 }
 
 .dropLetter {
-  font-family: 'Rye', 'Paprika', cursive;
-  font-size: 5rem;
-  float: left;
+   font-family: 'Rye', 'Paprika', cursive;
+   font-size: 5rem;
+   float: left;
+}
+
+.oNote {
+   color: $gray-2;
+   font-size: 75%;
+   font-variant: small-caps;
+   text-align: right;
+}
+
+@media (min-width: 56em) {
+   .container {
+      max-width: 1080px;
+   }
 }

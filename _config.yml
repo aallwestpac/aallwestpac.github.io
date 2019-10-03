@@ -1,10 +1,12 @@
 # Permalinks
-permalink:           /posts/:year/:month/:day/:title:output_ext
+permalink:           posts/:year/:month/:day/:title
 
 # Setup
-title:               WestPac Announcements
-url:                 https://aallwestpac.github.io/
-paginate:            1
+title:               The @AALLWestPac Source
+tagline:             Announcements for the Western Pacific Chapter of AALL
+url:                 https://aallwestpac.github.io
+paginate:            5
+paginate_path:       "/updates/page:num/"
 baseurl:             ""
 
 # Assets
@@ -21,9 +23,12 @@ author:
   email:             aallwestpac@gmail.com
 
 # Custom vars
-version:             0.0.1
+version:             0.1.2
 github:
   repo:              https://github.com/aallwestpac/aallwestpac.github.io
+
+# Image location for gDocs Gabriel add-on.
+post_assets: assets/posts
 
 # Gems
 plugins:
