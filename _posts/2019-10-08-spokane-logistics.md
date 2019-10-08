@@ -32,7 +32,7 @@ So looking forward to seeing everyone—please let me know if you have any quest
 
 #### UPDATE
 
-*From [Sharalyn Williams](mailto:williamss2@gonzaga.edu ) at Gonzaga:
+*From [Sharalyn Williams](mailto:williamss2@gonzaga.edu ) at Gonzaga:*
 
 I will have temporary parking passes available at the desk for those needing them. This will allow them to park on campus in any of the green lots for up to a week if they would like.
 
