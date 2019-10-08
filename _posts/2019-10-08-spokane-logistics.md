@@ -38,8 +38,8 @@ I will have temporary parking passes available at the desk for those needing the
 
 For all of the vehicles needing these, I will just need:
 
-Vehicle State & License Plate Number//
-Make//
-Model//
-Color of vehicle//
+Vehicle State & License Plate Number\\
+Make\\
+Model\\
+Color of vehicle\\
 Phone number
