@@ -9,8 +9,8 @@ published: true
 
 ### Details
 
-**March 27-28, 2020\\
-Hyatt Lodge\\
+**March 27-28, 2020 \\
+Hyatt Lodge \\
 Oak Brook, IL**
 
 * Registration Fee: $699
