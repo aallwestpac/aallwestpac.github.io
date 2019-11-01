@@ -14,7 +14,7 @@ Hyatt Lodge \\
 Oak Brook, IL**
 
 * Registration Fee: $699
-* [Open]([Visit AALLNET for more information](https://www.aallnet.org/education-training/in-person-programs-seminars/leadership-academy/leadership-academy-application/) to current AALL members only
+* [Open](https://www.aallnet.org/education-training/in-person-programs-seminars/leadership-academy/leadership-academy-application/) to current AALL members only
 * Deadline: November 11, 2019
 
 #### **Become an effective leader** by attending the **2020 AALL Leadership Academy.**
