@@ -21,7 +21,7 @@ body {
    margin-bottom: -100vh;
    position: relative;
    transform: translateZ(-3px) scale(4);
-   background: skyblue url(https://www.toptal.com/designers/subtlepatterns/patterns/morocco-blue.png) repeat scroll left top;
+   background: url(../../assets/design/sky+sun.png) no-repeat scroll center -25vh;
    z-index: -1;
 }
 
@@ -42,7 +42,7 @@ body {
    margin-bottom: -200vh;
    position: relative;
    transform: translateZ(-1px) scale(2);
-   background: white url(https://www.toptal.com/designers/subtlepatterns/patterns/morocco.png) repeat scroll left top;
+   background: background: url(../../assets/design/foreground.png) no-repeat scroll center top;
       z-index: 1;
    filter: blur(0);
 }
