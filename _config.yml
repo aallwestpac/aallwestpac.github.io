@@ -1,100 +1,71 @@
-# Permalinks
-permalink:           posts/:year/:month/:day/:title
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 
-# Setup
 title:               The @AALLWestPac Source
-tagline:             Announcements for the Western Pacific Chapter of AALL
+description: >- # this means to ignore newlines until "baseurl:"
+  Announcements for the Western Pacific Chapter of AALL
+baseurl:             ""
 url:                 https://aallwestpac.github.io
 paginate:            5
 paginate_path:       "/updates/page:num/"
-baseurl:             ""
-
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
+permalink:           posts/:year/:month/:day/:title
 
 # About/contact
 author:
-  name:              AALL WestPac
-  url:               http://chapters.aallnet.org/westpac/
-  email:             aallwestpac@gmail.com
+  name: AALL WestPac
+  url: http://chapters.aallnet.org/westpac
+  email: aallwestpac@gmail.com
+  twitter_username: aallwestpac
+  github_username:  aallwestpac
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
 
 # Custom vars
-version:             0.1.2
+version:             0.1.3
 github:
   repo:              https://github.com/aallwestpac/aallwestpac.github.io
 
 # Image location for gDocs Gabriel add-on.
 post_assets: assets/posts
 
-# Gems
-plugins:
-  - jekyll-paginate
-  - jekyll-gist
-  - jekyll-tweetsert
-
-
-# From https://github.com/ibrado/jekyll-tweetsert – details in gDrive document
-tweetsert:
-  enabled: true
-  layout: "post"
-  debug: false
-
-  title:
-    prefix: "[Tweet] "
-    words:  11
-    suffix: " ..."
-
-  properties:
-    is_tweet: true
-    tweet_html: $
-    share: false
-    comments: false
-
-  timeline:
-    handle: 'aallwestpac'
-
-    access_token: "2749460815-RsX28C2YhGRDQOqenm6x0Tf5W2xETkwzWip3MNr"
-    limit: 100
-
-    replies: false
-    retweets: false
-
-    include:
-      - '@aallwestpac'
-      - '#aallwestpac'
-
-    no_newer: false
-    no_older: false
-
-  embed:
-    excerpts: true
-    theme: "dark"
-    link_color: "#2e6690"
-    omit_script: false
-    prefix: '<em>Tweeted on {{date}}</em>'
-    suffix: '<p class="smallPrint">Click <a href="{{url}}">here</a> to comment.</p>'
-
-  category:
-    default: "twitter"
-
-    layout: "category_index"
-    title:
-      prefix: "Posts in the &laquo;"
-      suffix: "&raquo; category"
-
-  tags:
-    default: "tweet"
-    dir: "tag"
-
-    layout: "tag_index"
-    title:
-      prefix: "Posts tagged &ldquo;"
-      suffix: "&rdquo;"
-
-    hashtags: true
-#    ignore:
-#      - "blahblah"
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+ - .sass-cache/
+ - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
