@@ -2,7 +2,7 @@
 title: Spokane Hotel Information
 layout: post
 author: aallwestpac
-permalink: /spokane-hotel-information/
+permalink:
 source-id: 1kBH55p4f1knNS7Pa3AHTvcPsN1v_6BPhEecqnm8c-yE
 published: true
 ---
