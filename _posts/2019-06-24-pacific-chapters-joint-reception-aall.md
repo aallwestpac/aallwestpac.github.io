@@ -2,7 +2,7 @@
 title: Announcing the venue for the AALL Pacific Chapters Joint Reception in Washington, DC.
 layout: post
 author: Brian Huffman
-permalink: /pacific-chapters-joint-reception-@-aall/
+permalink: 
 source-id: 1Lcr_8SIwsYCXQ90Xc-ZSkL67rA0u-9EFpV5jZJVu_Xk
 published: true
 ---
@@ -21,4 +21,3 @@ published: true
 [Display in Google Maps](https://www.google.com/maps/dir/Convention+Center,+Washington,+DC/City+Tap+House,+9th+Street+Northwest,+Washington,+DC/@38.9029196,-77.0251279,17z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x89b7b7fff95a4463:0xc9c1eec31cdccfd4!2m2!1d-77.023105!2d38.904963!1m5!1m1!1s0x89b7b792474c836b:0x3080aabf896b34eb!2m2!1d-77.02385!2d38.9010463!3e2)
 
 Thomson Reuters and the participating chapters will cover costs for the appetizers, beer and wine, the gratuity and the service fee. Members are welcome to bring guests to the event.
-
