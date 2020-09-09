@@ -4,7 +4,6 @@ layout: post
 author: aallwestpac
 published: true
 ---
-##2020 Fall Business meeting
 
 Hello WestPac members!
 
