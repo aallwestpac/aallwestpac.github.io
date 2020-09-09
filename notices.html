@@ -1,0 +1,19 @@
+---
+layout: simple
+---
+
+<ul style="list-style-type:none;">
+  {% for post in site.posts limit:7 %}
+    <li style="margin:1rem 0;border-bottom:1px dotted #bcbcbc;padding-bottom:1rem;">
+      <h2 class="post-title">
+        <a href="{{ site.baseurl }}{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </h2>
+
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="post-date">{{ post.date | date_to_string }}</time>
+
+      {{ post.content | markdownify }}
+    </li>
+  {% endfor %}
+</ul>
