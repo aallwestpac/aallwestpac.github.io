@@ -9,7 +9,7 @@ Hi WestPac Colleagues,
 
 In order to provide professional development opportunities in lieu of the postponed 2020 WestPac Annual Meeting, the WestPac Education Committee is sponsoring periodic virtual roundtable discussions. Here are details of the next roundtable discussion:
 
-What:  **Technical Services During Turbulent Times Roundtable Discussion **(via Zoom)
+What:  **Technical Services During Turbulent Times Roundtable Discussion ** (via Zoom)
 
 Facilitators: 
 
@@ -21,7 +21,7 @@ Karen Selden, Metadata Services Librarian, University of Colorado's William A. W
 
 When: **Thursday November 12, 2020, 4pm (EST); 3pm (CST); 2pm (MST); 1pm (PST)**
 
-More Details:  **Registration is FREE; register here: ****[ https://forms.gle/KGXTnCoJTrQNLzP4**6](https://docs.google.com/forms/d/e/1FAIpQLSftO_yo9LXuekV51-Sl1RY8kFEWEh-bLo_8s-l0Y6V6uQAZCg/viewform)
+More Details:  **Registration is FREE; register here:** [https://forms.gle/KGXTnCoJTrQNLzP46](https://forms.gle/KGXTnCoJTrQNLzP46)
 
 Looking forward to a great discussion on November 12!
 
