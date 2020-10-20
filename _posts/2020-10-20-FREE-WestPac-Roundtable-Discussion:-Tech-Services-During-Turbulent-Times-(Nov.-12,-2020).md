@@ -9,7 +9,7 @@ Hi WestPac Colleagues,
 
 In order to provide professional development opportunities in lieu of the postponed 2020 WestPac Annual Meeting, the WestPac Education Committee is sponsoring periodic virtual roundtable discussions. Here are details of the next roundtable discussion:
 
-What:  **Technical Services During Turbulent Times Roundtable Discussion ** (via Zoom)
+What:  **Technical Services During Turbulent Times Roundtable Discussion** (via Zoom)
 
 Facilitators: 
 
