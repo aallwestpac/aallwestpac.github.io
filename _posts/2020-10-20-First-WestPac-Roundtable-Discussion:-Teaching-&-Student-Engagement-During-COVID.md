@@ -3,6 +3,7 @@ title: First WestPac Roundtable Discussion: Teaching & Student Engagement During
 layout: post
 author: aallwestpac
 published: true
+
 ---
 
 Hi WestPac Colleagues,
@@ -11,7 +12,7 @@ In order to provide professional development opportunities in lieu of the postpo
 
 Here are the details of the **first** roundtable discussion, coming up next Monday, October 26th at 1pm PST:
 
-**What:**  Teaching & Student Engagement During COVID** **
+**What:**  Teaching & Student Engagement During COVID
 
 **Facilitator**: Mari Cheney, Assistant Director, Research and Instruction, Boley Law Library, Lewis & Clark Law School
 
