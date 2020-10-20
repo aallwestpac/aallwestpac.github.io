@@ -3,7 +3,6 @@ title: First WestPac Roundtable Discussion: Teaching & Student Engagement During
 layout: post
 author: aallwestpac
 published: true
-
 ---
 
 Hi WestPac Colleagues,
