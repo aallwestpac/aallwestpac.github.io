@@ -1,5 +1,5 @@
 ---
-title: Teach-In Kit Pandemic Edition &mdash; Resources for Virtual Education
+title: Teach-In Kit Pandemic Edition -- Resources for Virtual Education
 layout: post
 author: aallwestpac
 published: true
