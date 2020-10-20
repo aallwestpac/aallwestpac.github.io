@@ -21,7 +21,7 @@ Karen Selden, Metadata Services Librarian, University of Colorado's William A. W
 
 When: **Thursday November 12, 2020, 4pm (EST); 3pm (CST); 2pm (MST); 1pm (PST)**
 
-More Details:  **Registration is FREE; register here: ****[ https://forms.gle/KGXTnCoJTrQNLzP4**6](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2FKGXTnCoJTrQNLzP46&data=04%7C01%7Ccabanissjaso%40seattleu.edu%7C9b8d9ec4cb4346fc0d6408d875172521%7Cbc10e052b01c48499967ee7ec74fc9d8%7C0%7C0%7C637388089561599369%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=hJdQLrvBp%2FF5%2Feo9HsGpeN02NTgg5QI8GzgzNR6Ecbo%3D&reserved=0)
+More Details:  **Registration is FREE; register here: ****[ https://forms.gle/KGXTnCoJTrQNLzP4**6](https://docs.google.com/forms/d/e/1FAIpQLSftO_yo9LXuekV51-Sl1RY8kFEWEh-bLo_8s-l0Y6V6uQAZCg/viewform)
 
 Looking forward to a great discussion on November 12!
 
