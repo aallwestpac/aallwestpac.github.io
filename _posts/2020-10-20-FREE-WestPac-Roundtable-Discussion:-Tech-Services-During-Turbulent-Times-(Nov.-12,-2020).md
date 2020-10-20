@@ -2,11 +2,8 @@
 title: FREE WestPac Roundtable Discussion: Tech Services During Turbulent Times (Nov. 12, 2020)
 layout: post
 author: aallwestpac
-permalink: /free-westpac-roundtable-discussion:-tech-services-during-turbulent-times-(nov.-12,-2020)/
-source-id: 1DC4K83B8c-fLcGwWzFjYghspwmVbM2YzGECu07LJC4w
 published: true
 ---
-## FREE WestPac Roundtable Discussion: Tech Services During Turbulent Times (Nov. 12, 2020)
 
 Hi WestPac Colleagues,
 
