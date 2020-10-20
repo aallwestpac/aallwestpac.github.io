@@ -2,10 +2,9 @@
 title: Teach-In Kit Pandemic Edition: Resources for Virtual Education
 layout: post
 author: aallwestpac
-permalink: /teach-in-kit-pandemic-edition:-resources-for-virtual-education/
-source-id: 149HJlOg0si8eCL60P81gIVAj_GMTBBbQxbhpL-nt57c
 published: true
 ---
+
 ## Teach-In Kit Pandemic Edition: Resources for Virtual Education
 
 Calling all emergency online teachers!
@@ -22,7 +21,7 @@ We're on the hunt for the following materials:
 
 * Asynchronous materials and supplemental materials prepared for other professors' courses.
 
-Submissions are due on **November 16th**!  If you're willing to share,[ please submit your contributions here](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.gle%2F6E5TBBTnrbScwjVt8&data=04%7C01%7Ccabanissjaso%40seattleu.edu%7Ce41478978cd9445cf8da08d875174e52%7Cbc10e052b01c48499967ee7ec74fc9d8%7C0%7C0%7C637388090240514381%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=qbqpzQVP2dfJOQWasCLH%2BIOJfB3WNvOr4resq5gBcvk%3D&reserved=0). 
+Submissions are due on **November 16th**!  If you're willing to share,[ please submit your contributions here](https://docs.google.com/forms/d/e/1FAIpQLSf4eUotsB3Y1euobxFZzoNOOEI7AjS2q0qflaBt1AVtB-B7Nw/viewform). 
 
 Stay tuned for a full Teach-In Kit (and request for submissions) in Spring of 2021!
 
