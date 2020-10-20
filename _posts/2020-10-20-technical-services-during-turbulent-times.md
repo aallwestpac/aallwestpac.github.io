@@ -1,5 +1,5 @@
 ---
-title: FREE Roundtable Discussion: Technical Services During Turbulent Times
+title: FREE WestPac Roundtable Discussion: Technical Services During Turbulent Times
 layout: post
 author: aallwestpac
 source-id: 1kQmUe5db5vEsmjRL9w8NOWOALNdH-mKZmkmONYfPWUc
