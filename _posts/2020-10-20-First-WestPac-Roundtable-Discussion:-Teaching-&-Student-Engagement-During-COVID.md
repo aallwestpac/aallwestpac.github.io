@@ -1,4 +1,4 @@
-##{First WestPac Roundtable Discussion: Teaching Student Engagement During COVID}
+## {First WestPac Roundtable Discussion: Teaching Student Engagement During COVID}
 
 ---
 title: First WestPac Roundtable Discussion: Teaching & Student Engagement During COVID
