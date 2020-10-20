@@ -6,6 +6,8 @@ permalink: /teach-in-kit-pandemic-edition:-resources-for-virtual-education/
 source-id: 149HJlOg0si8eCL60P81gIVAj_GMTBBbQxbhpL-nt57c
 published: true
 ---
+## Teach-In Kit Pandemic Edition: Resources for Virtual Education
+
 Calling all emergency online teachers!
 
 In the quick transition from in-person to online teaching, did you develop materials for your classes that you feel worked particularly well? Did you design processes or draft procedures for moving content online that streamlined things for you or your students? Did you assist the faculty at your institution in moving their materials online, or provide content for them to use in their classes? We want to hear from you!
