@@ -1,5 +1,3 @@
-## {First WestPac Roundtable Discussion: Teaching Student Engagement During COVID}
-
 ---
 title: First WestPac Roundtable Discussion: Teaching & Student Engagement During COVID
 layout: post
@@ -8,7 +6,6 @@ permalink: /first-westpac-roundtable-discussion:-teaching-&-student-engagement-d
 source-id: 1Q1a_6hha-Bk0u6PoRDmG37-eK201l9HYvbrP2bBovmc
 published: true
 ---
-
 Hi WestPac Colleagues,
 
 In order to provide professional development opportunities in lieu of the postponed 2020 WestPac Annual Meeting, the WestPac Education Committee is sponsoring periodic virtual roundtable discussions. 
