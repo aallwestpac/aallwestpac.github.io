@@ -11,7 +11,7 @@ In order to provide professional development opportunities in lieu of the postpo
 
 What:  **Technical Services During Turbulent Times Roundtable Discussion** (via Zoom)
 
-Facilitators: 
+Facilitators:
 
 Lauren Seney, Associate Director and Head of Technical Services, University of Colorado's William A. Wise Law Library
 
@@ -24,4 +24,3 @@ When: **Thursday November 12, 2020, 4pm (EST); 3pm (CST); 2pm (MST); 1pm (PST)**
 More Details:  **Registration is FREE; register here:** [https://forms.gle/KGXTnCoJTrQNLzP46](https://forms.gle/KGXTnCoJTrQNLzP46)
 
 Looking forward to a great discussion on November 12!
-
