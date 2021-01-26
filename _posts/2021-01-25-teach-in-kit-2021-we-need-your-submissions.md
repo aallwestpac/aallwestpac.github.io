@@ -5,6 +5,8 @@ author: aallwestpac
 source-id: 1p05eGbtYJzQb5pDK4ykq57luuclC7i5Ltff52RN7pb0
 published: true
 ---
+##Teach-In Kit 2021: We Need Your Submissions!
+
 Have you designed a great assignment that your students loved? Or discovered new and exciting ways to teach legal research, even in the middle of a pandemic? Then consider sharing them with AALL by submitting them to the 29th Annual RIPS-SIS Legal Research Teach-In Kit!
 
 **Deadline for submissions: **February 19, 2021
