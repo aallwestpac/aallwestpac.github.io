@@ -9,7 +9,7 @@ published: true
 
 Have you designed a great assignment that your students loved? Or discovered new and exciting ways to teach legal research, even in the middle of a pandemic? Then consider sharing them with AALL by submitting them to the 29th Annual RIPS-SIS Legal Research Teach-In Kit!
 
-**Deadline for submissions: **February 19, 2021
+**Deadline for submissions**: February 19, 2021
 
 **Where to send your submissions**: Clare Willis, at Clare.willis@law.northwestern.edu
 
