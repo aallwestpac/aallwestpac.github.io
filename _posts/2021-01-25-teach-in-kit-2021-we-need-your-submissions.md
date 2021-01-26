@@ -1,5 +1,5 @@
 ---
-title: Teach-In Kit 2021: We Need Your Submissions!
+title: Teach-In Kit 2021&colon; We Need Your Submissions!
 layout: post
 author: aallwestpac
 source-id: 1p05eGbtYJzQb5pDK4ykq57luuclC7i5Ltff52RN7pb0
