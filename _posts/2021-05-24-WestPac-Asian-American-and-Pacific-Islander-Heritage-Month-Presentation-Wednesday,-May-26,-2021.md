@@ -2,7 +2,6 @@
 title: WestPac Asian American and Pacific Islander Heritage Month Presentation Wednesday, May 26, 2021
 layout: post
 author: aallwestpac
-permalink: /westpac-asian-american-and-pacific-islander-heritage-month-presentation-wednesday,-may-26,-2021/
 source-id: 1zIh6Xe8-6BW_FlTidm0kileiRDH46H7St1mRLzWgu7I
 published: true
 ---
