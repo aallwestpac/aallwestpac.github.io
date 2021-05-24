@@ -2,7 +2,6 @@
 title: WestPac election results
 layout: post
 author: aallwestpac
-permalink: /westpac-election-results/
 source-id: 1AS1hzHHrxy6g5iiL9iFsJW9Z-OuyO4BpkqFnbTwz4Z0
 published: true
 ---
@@ -13,4 +12,3 @@ Congratulations to our incoming Vice-President/President-Elect **Anna Blaine**, 
 Thank you to Secretary Sharalyn Williams and the Nominations and Elections Committee (Annalee Hickman and Youngwoo Ban) for all of their work on this year's election.  
 
 And, thank you to all who voted!
-
