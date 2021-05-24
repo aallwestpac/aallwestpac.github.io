@@ -5,10 +5,10 @@ author: aallwestpac
 source-id: 1AS1hzHHrxy6g5iiL9iFsJW9Z-OuyO4BpkqFnbTwz4Z0
 published: true
 ---
-Dear WestPac members,
+<p>Dear WestPac members,</p>
 
-Congratulations to our incoming Vice-President/President-Elect **Anna Blaine**, and re-elected Treasurer **Lee Van Duzer**!  Each received 100% of the votes cast for their respective offices.  The election results are <a href=“https://drive.google.com/file/d/1nsfOXWIKjyj0SgsDIhFCEBP3fmHdWR_K/view?usp=sharing” target=“_blank”>linked here</a>.
+<p>Congratulations to our incoming Vice-President/President-Elect **Anna Blaine**, and re-elected Treasurer **Lee Van Duzer**!  Each received 100% of the votes cast for their respective offices.  The election results are <a href=“https://drive.google.com/file/d/1nsfOXWIKjyj0SgsDIhFCEBP3fmHdWR_K/view?usp=sharing” target=“_blank”>linked here</a>.</p>
 
-Thank you to Secretary Sharalyn Williams and the Nominations and Elections Committee (Annalee Hickman and Youngwoo Ban) for all of their work on this year's election.  
+<p>Thank you to Secretary Sharalyn Williams and the Nominations and Elections Committee (Annalee Hickman and Youngwoo Ban) for all of their work on this year's election.</p> 
 
-And, thank you to all who voted!
+<p>And, thank you to all who voted!</p>
