@@ -13,7 +13,7 @@ Viewing the Change the Subject documentary in advance is recommended, but not es
 
 Let's get to know Chris a little.  Chris Long is Director of the Resource Description Services Team at the University of Colorado Boulder University Libraries. He was co-chair of ALA’s Subject Analysis Committee (SAC) from 2018-19. Prior to his arrival in Colorado, he served as Catalog Librarian for 21 years at the Ruth Lilly Law Library, at the Indiana University Robert H. McKinney School of Law, and in 2010 was chair of TS-SIS.
 
-![Change the Subject](https://aallwestpac.github.io/assets/posts/ChangetheSubject.png "Change the Subject")
+![Change the Subject](https://aallwestpac.github.io/assets/posts/ChangetheSubject.PNG "Change the Subject")
 
 The Zoom link for Chris's presentation is here and in the flyer: https://hawaii.zoom.us/j/93550625159
 passcode: change
