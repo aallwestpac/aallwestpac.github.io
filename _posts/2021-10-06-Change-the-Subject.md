@@ -16,3 +16,5 @@ Let's get to know Chris a little.  Chris Long is Director of the Resource Descri
 ![Change the Subject](https://aallwestpac.github.io/assets/posts/ChangetheSubject.PNG "Change the Subject")
 
 The Zoom link for Chris's presentation is here and in the flyer: https://hawaii.zoom.us/j/93550625159
+
+passcode: change
