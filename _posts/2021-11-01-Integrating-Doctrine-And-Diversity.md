@@ -11,8 +11,7 @@ You can read the book's Table of Contents, Foreword, and Introduction, and the f
 
 We look forward to seeing everyone!
 
-Zoom Link<br>
-https://hawaii.zoom.us/j/98219360611<br>
+<a href="https://hawaii.zoom.us/j/98219360611" target="_blank">Zoom Link</a><br>
 Passcode: diversity<br>
 
 ![Integrating Doctrine & Diversity](https://aallwestpac.github.io/assets/posts/Integrating-Doctrine-and-Diversity.PNG "Integrating Doctrine & Diversity")
