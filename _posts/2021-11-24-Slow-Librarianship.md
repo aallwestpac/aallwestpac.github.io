@@ -14,4 +14,4 @@ Passcode: slowdown
 <u>Meredith's Biography</u>:
 Meredith Farkas (she/her) is a faculty librarian at Portland Community College, a perpetual beginner, and a recovering workaholic. From 2007-2021, she wrote the “In Practice” column for American Libraries, focusing on accessible technologies, collaboration, values-driven work, antiracism, and reflective practice. Meredith was honored in 2009 with the LITA/Library Hi Tech award for Outstanding Communication in Library and Information Technology, and in 2014 with the ACRL Instruction Section Innovation Award.
 
-![Slow Librarianship](https://aallwestpac.github.io/assets/posts/Slow-Librarianship.PNG "Slow Librarianship")
+![Slow Librarianship](https://aallwestpac.github.io/assets/posts/SlowLibrarianship.PNG "Slow Librarianship")
